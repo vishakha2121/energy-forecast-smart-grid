@@ -274,21 +274,7 @@ storybook-static
 *.myi
 *.sql
 
-# =====================
-# Machine Learning Models
-# =====================
 
-# Model files (large files)
-*.h5
-*.hdf5
-*.pkl
-*.joblib
-*.sav
-*.pickle
-*.keras
-*.pb
-*.tflite
-*.onnx
 
 
 
