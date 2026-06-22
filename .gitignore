@@ -506,7 +506,3 @@ apidocs/
 *.mp3
 *.wav
 
-# Package manager lock files (keep one)
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
