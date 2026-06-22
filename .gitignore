@@ -452,18 +452,7 @@ database/*.sqlite
 database/*.sqlite3
 database/backup/
 
-# Environment files
-.env
-.env.local
-.env.*.local
-.env.backup
 
-# Secrets
-*.pem
-*.key
-*.crt
-*.p12
-*.pfx
 
 
 
