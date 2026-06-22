@@ -375,13 +375,6 @@ $RECYCLE.BIN/
 *.AppleDouble
 *.LSOverride
 
-# Linux
-*.swp
-*~
-
-# =====================
-# Docker
-# =====================
 
 
 
