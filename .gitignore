@@ -488,15 +488,6 @@ site/
 _build/
 apidocs/
 
-# =====================
-# Miscellaneous
-# =====================
 
-# Compressed files
-*.zip
-*.tar.gz
-*.rar
-*.7z
-*.gz
 
 
