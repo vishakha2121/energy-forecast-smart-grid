@@ -329,26 +329,7 @@ mlruns/
 out/
 .idea_modules/
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-*.sublime-*
 
-# Atom
-.atom/
-.history/
-
-# Vim
-*.swp
-*.swo
-*~
-*.un~
-
-# Emacs
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
 
 
 
