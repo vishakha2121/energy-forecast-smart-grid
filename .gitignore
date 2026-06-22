@@ -290,25 +290,7 @@ storybook-static
 *.tflite
 *.onnx
 
-# Training checkpoints
-checkpoints/
-*.ckpt
-*.ckpt.meta
-*.ckpt.index
-*.data-00000-of-00001
 
-# TensorFlow
-events.out.tfevents*
-*.graphdef
-*.meta
-
-# PyTorch
-*.pt
-*.pth
-
-# MLflow
-mlruns/
-*.mlflow
 
 
 
