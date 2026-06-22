@@ -184,12 +184,7 @@ bower_components
 # Compiled binary addons
 build/Release
 
-# Dependency directories
-node_modules/
-jspm_packages/
 
-# Snowpack dependency directory
-web_modules/
 
 
 
