@@ -424,19 +424,7 @@ data/interim/
 data/external/
 data/synthetic/
 
-# Model checkpoints
-ml_models/checkpoints/
-ml_models/*.h5
-ml_models/*.pkl
-ml_models/*.joblib
 
-# Backend specific
-backend/app/ml_models/*.pkl
-backend/app/ml_models/*.h5
-backend/app/ml_models/*.joblib
-backend/data/raw/
-backend/data/processed/
-backend/data/synthetic/
 
 
 
