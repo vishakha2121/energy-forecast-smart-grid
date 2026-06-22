@@ -413,16 +413,7 @@ lerna-debug.log*
 *.swo
 *~
 
-# =====================
-# Project Specific
-# =====================
 
-# Data files (if using sample data)
-data/raw/
-data/processed/
-data/interim/
-data/external/
-data/synthetic/
 
 
 
