@@ -178,11 +178,6 @@ coverage/
 # Bower dependency directory
 bower_components
 
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons
-build/Release
 
 
 
