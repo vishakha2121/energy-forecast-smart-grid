@@ -255,24 +255,7 @@ storybook-static
 # Database
 # =====================
 
-# SQLite
-*.db
-*.sqlite
-*.sqlite3
-*.db-journal
 
-# PostgreSQL
-*.pid
-*.pem
-*.key
-
-# MySQL
-*.ibd
-*.ibdata1
-*.frm
-*.myd
-*.myi
-*.sql
 
 
 
