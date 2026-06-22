@@ -438,19 +438,7 @@ backend/data/raw/
 backend/data/processed/
 backend/data/synthetic/
 
-# Frontend specific
-frontend/build/
-frontend/dist/
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
 
-# Database
-database/*.db
-database/*.sqlite
-database/*.sqlite3
-database/backup/
 
 
 
