@@ -310,24 +310,7 @@ events.out.tfevents*
 mlruns/
 *.mlflow
 
-# =====================
-# IDE & Editor
-# =====================
 
-# Visual Studio Code
-.vscode/
-*.code-workspace
-.history/
-*.local
-*.code-workspace
-
-# IntelliJ IDEA / PyCharm
-.idea/
-*.iml
-*.iws
-*.ipr
-out/
-.idea_modules/
 
 
 
