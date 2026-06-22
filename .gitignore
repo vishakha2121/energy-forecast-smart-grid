@@ -237,23 +237,7 @@ out
 .nuxt
 dist
 
-# Gatsby files
-.cache/
-public
 
-# Storybook build outputs
-.storybook-out
-storybook-static
-
-# vite
-.vite
-
-# Turborepo
-.turbo
-
-# =====================
-# Database
-# =====================
 
 
 
