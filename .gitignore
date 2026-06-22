@@ -465,18 +465,7 @@ database/backup/
 *.p12
 *.pfx
 
-# =====================
-# Testing
-# =====================
 
-# Test coverage
-coverage/
-.nyc_output/
-htmlcov/
-.tox/
-.pytest_cache/
-.cache/
-.vscode-test/
 
 
 
