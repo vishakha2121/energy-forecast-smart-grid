@@ -499,10 +499,4 @@ apidocs/
 *.7z
 *.gz
 
-# Media files (if not needed in repo)
-*.mp4
-*.avi
-*.mov
-*.mp3
-*.wav
 
