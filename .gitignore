@@ -383,16 +383,7 @@ $RECYCLE.BIN/
 # Docker
 # =====================
 
-# Docker files
-*.pid
-docker-compose.override.yml
-.dockerignore
-Dockerfile.*
-*.dockerignore
 
-# =====================
-# Logs & Temporary
-# =====================
 
 
 
