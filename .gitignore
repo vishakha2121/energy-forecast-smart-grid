@@ -478,15 +478,7 @@ htmlcov/
 .cache/
 .vscode-test/
 
-# =====================
-# Documentation
-# =====================
 
-# Build documentation
-docs/_build/
-site/
-_build/
-apidocs/
 
 
 
