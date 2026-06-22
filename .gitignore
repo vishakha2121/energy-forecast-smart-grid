@@ -169,8 +169,6 @@ lib-cov
 coverage/
 *.lcov
 
-y directory
-bower_components
 
 
 
